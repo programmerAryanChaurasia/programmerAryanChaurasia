@@ -1,18 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aryan Chaurasia</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hey 👋, I'm Aryan Chaurasia</h1>
 
-<img align="right" width="400" src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/05/zIA1XCzK_o.gif?resize=529%2C306&ssl=1" alt="Coding">
+<h3 align="center">
+🚀 Passionate Software Engineer from India  
+</h3>
 
-- 🌱 I’m currently learning **Laravel, React**
-
-- 💬 Ask me about **Laravel, C & C++, Bootstrap**
-
-- 📫 How to reach me **aryanchaurasia.web@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@aryanchaurasia8729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aryanchaurasia8729" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;React+Learner;C%2FC%2B%2B+Programmer;Future+AI+Entrepreneur;Building+Cool+Things+Everyday" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Laravel & React**
+- 💡 Interested in **AI, Web Development & Startups**
+- 💬 Ask me about **Laravel, C, C++, Bootstrap**
+- 📫 Reach me at: **aryanchaurasia.web@gmail.com**
+- ⚡ Fun fact: I love building real-world projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.youtube.com/@aryanchaurasia8729" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:aryanchaurasia.web@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,c,cpp,python,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌟 AHTE Travel
+> Travel startup project by Aryan
+
+### 📰 Twitter News Platform
+> Platform showing tweets/news of Nifty listed companies
+
+### 🤖 AI Content & Shorts
+> AI-based YouTube Shorts & automation projects
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Building real-world web projects
+- 📚 Learning DSA & AI
+- 💻 Passionate about startups & tech
+- 🎯 Consistent self-learner
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+
+</p>
+
+---
+
+<p align="center">
+✨ "Code. Learn. Build. Repeat." ✨
+</p>
